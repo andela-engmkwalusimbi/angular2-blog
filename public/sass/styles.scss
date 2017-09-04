@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Taviraj');
+$taviraj: 'Taviraj', serif;
+
+@import './settings';
+@import '~foundation-sites/assets/foundation';
+
+@include foundation-flex-grid;
